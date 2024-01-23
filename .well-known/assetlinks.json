@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.ypf.jpm",
-               "sha256_cert_fingerprints": ["E2:D0:0E:21:07:06:85:56:22:7D:26:5F:1E:53:AD:9E:6F:47:E5:46:21:77:3A:3D:9E:34:B1:25:A6:3D:EE:EB"] }
+  "target" : { "namespace": "android_app", "package_name": "fr.smarquis.applinks",
+               "sha256_cert_fingerprints": ["6B:41:26:A6:1E:D8:BD:91:D3:8B:57:10:5F:07:5C:2D:AB:3E:26:A4:D1:3C:9C:97:15:78:9E:0D:56:0A:CE:DC"] }
 }]
